@@ -3,6 +3,8 @@
 
 python -m venv .env
 
+source .venv/bin/activate
+
 pip install -r req.txt
 
 
